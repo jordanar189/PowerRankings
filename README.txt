@@ -1,0 +1,2 @@
+- This project will make a power rankings graphic for a fantasy football league, specific to the league the creator of this project is in. The only necessary
+requirements are a Microsoft Forms Excel document. For more information on each file, read the "File Info.pdf" document.
