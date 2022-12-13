@@ -7,8 +7,8 @@ library(RColorBrewer)
 install.packages('ggrepel')
 library(ggrepel)
 
-#Setting working directory. To have this work on a different machine, switch this to that machines marking directory filepath
-setwd("C:\\Users\\Jordan Ramsey\\Documents\\PR Project Files")
+#Setting working directory. To have this work on a different machine, switch this to that machines project directory filepath
+setwd("C:\\Users\\Jordan Ramsey\\Documents\\PR Python CSVs")
 getwd()
 
 #Opening Files
