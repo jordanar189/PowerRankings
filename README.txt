@@ -23,7 +23,7 @@
 
 
 ---Tables folder---
-- *Power Rankings.xlsx: This is where the polls are stored. You can change the items being ranked by updating each team name within each poll to whatever items you like. Each item must be seperated with ", ". There can only be an exact number of 10 items in each poll. There can be an unlimited number of polls (each row is a new poll), but each poll must consist of the same 10 items, however the order of those 10 items can differ poll by poll. (Despite the asterik, this file can be updated in the manners described here, however it cannot be deleted)
+- *Power Rankings.xlsx: This is where the polls are stored. You can change the items being ranked by updating each team name within each poll to whatever items you like. Each item must be seperated with ", ". There can only be an exact number of 10 items in each poll. There can be an unlimited number of polls (each row is a new poll), but each poll must consist of the same 10 items, however the order of those 10 items can differ poll by poll. The header, listed as "Power Rankings" must not be deleted or edited. (Despite the asterik, this file can be updated in the manners described here, however it cannot be deleted)
 
 - points_calculated.csv: Like others, this will not appear until the code has been run at least once. This is the dataframe that was collected in create_df.py. Helpful for checking results
 
